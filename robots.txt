@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yannilboudo.github.io/sitemap.xml
+Sitemap: https://www.yannilboudo.com/sitemap.xml
